@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.white-block{
+    background-color: antiquewhite;
+    
+    
+}
+
+
+.black-block{
+    background-color: brown;
+    
+    
+
+}
+
+
+.global-container{
+    font-size: 0;
+    margin: auto;
+    border: 50px solid brown;
+}
+
+.container div {
+    display: inline-block;
+    height: 50px;
+    width:50px;
+    
+}
